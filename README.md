@@ -6,6 +6,12 @@
 make battleships
 ```
 
+### Clean the Program
+
+``` shell
+make clean
+```
+
 ### Sample Output 
 
 ``` shell
